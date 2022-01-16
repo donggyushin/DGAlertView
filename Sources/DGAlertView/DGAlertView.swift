@@ -69,7 +69,7 @@ public class DGAlertView: UIViewController {
     }
     
     @objc private func dimmedViewTapped(_ sender: UITapGestureRecognizer) {
-        dismiss(animated: false)
+        self.hide()
     }
     
     @objc private func contentsViewPanGestured(_ sender: UIPanGestureRecognizer) {

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'DGAlertView'
-    s.version          = '1.0.1'
+    s.version          = '1.0.2'
     s.summary          = 'A simple custom popup dialog view for iOS written in Swift. Replaces UIAlertController alert style.'
     s.homepage         = 'https://github.com/donggyushin/DGAlertView'
     s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
